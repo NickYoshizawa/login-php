@@ -26,7 +26,7 @@
                 "nome" => "Margarida"
             ),
 
-        array(  "email" => "Biazikinha@hotmail", 
+        array(  "email" => "bia@abc.com", 
                 "senha" => "puro", 
                 "nivel" => "user",
                 "nome" => "Beatriz"
