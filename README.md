@@ -55,29 +55,16 @@ http://localhost/nome-do-projeto
 ## Pré-visualização
 
 ### Tela de Login (Desktop)
-![Tela Login](./Resources/previewSignIn.png)
+![Tela Login](resources/previewSignIn.png)
 
 ### Tela de Login (Mobile)
-![Login Mobile](./Resources/previewSignIn-mobile.png)
+![Login Mobile](resources/previewSignIn-mobile.png)
 
 ### Tela Inicial (Home) - Desktop
-![Tela Home](./Resources/previewHome.png)
+![Tela Home](resources/previewHome.png)
 
 ### Tela Inicial (Home) - Mobile
-![Home Mobile](./Resources/previewHome-mobile.png)
-
-## Estrutura do Projeto
-
-```
-├── index.php             # Página de login
-├── home.php              # Página inicial após login
-├── acesso.php            # Lógica de validação de login e redirecionamento
-├── logout.php            # Encerra sessão
-├── script.php            # Validações e lógicas auxiliares
-├── styleIndex.css        # Estilo da página de login
-├── styleHome.css         # Estilo da página home
-└── Resources/            # Imagens e recursos visuais
-```
+![Home Mobile](resources/previewHome-mobile.png)
 
 ## Licença
 
