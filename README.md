@@ -60,7 +60,7 @@ http://localhost/nome-do-projeto
 ### Tela Inicial (Home) - Desktop
 ![Tela Home](resources/previewHome.png)
 
-### Tela de Login e Inicial (Home) (Mobile)
+### Tela de Login e Inicial (Home) - Mobile
 ![Login Mobile](resources/previewSignIn-mobile.png) ![Home Mobile](resources/previewHome-mobile.png)
 
 ## Licença
