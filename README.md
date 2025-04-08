@@ -57,8 +57,8 @@ http://localhost/nome-do-projeto
 | Email                | Senha     | Nível de Acesso |
 |---------------------|-----------|-----------------|
 | nicolas@abc.com     | 123456    | Admin           |
-| bia@abc.com         | puro      | User            |
 | joao@abc.com        | 12456     | Admin           |
+| bia@abc.com         | puro      | User            |
 | juliano@abc.com     | 89745     | User            |
 | margarida@abc.com   | 1245Aef   | User            |
 
