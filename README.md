@@ -57,14 +57,11 @@ http://localhost/nome-do-projeto
 ### Tela de Login (Desktop)
 ![Tela Login](resources/previewSignIn.png)
 
-### Tela de Login (Mobile)
-![Login Mobile](resources/previewSignIn-mobile.png)
-
 ### Tela Inicial (Home) - Desktop
 ![Tela Home](resources/previewHome.png)
 
-### Tela Inicial (Home) - Mobile
-![Home Mobile](resources/previewHome-mobile.png)
+### Tela de Login e Inicial (Home) (Mobile)
+![Login Mobile](resources/previewSignIn-mobile.png) ![Home Mobile](resources/previewHome-mobile.png)
 
 ## Licença
 
