@@ -20,7 +20,7 @@ Fixar os conceitos de autenticação de usuários, manipulação de sessões e c
 - CSS3
 - Responsividade com Media Queries
 
-## 📌 Funcionalidades
+## 🧰 Funcionalidades
 
 - Login com email e senha
 - Diferenciação de acesso entre usuário comum e administrador
@@ -28,13 +28,13 @@ Fixar os conceitos de autenticação de usuários, manipulação de sessões e c
 - Feedback visual para erros de login
 - Logout com destruição de sessão
 
-## 🔧 Pré-requisitos
+## ⚙ Pré-requisitos
 
 - Servidor local (como XAMPP, WAMP, Laragon, etc.)
 - PHP instalado (>= 7.4)
 - Navegador moderno
 
-## 🔧 Instalação e Execução
+## 🛠 Instalação e Execução
 
 1. Clone o repositório:
 
