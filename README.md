@@ -52,6 +52,17 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 http://localhost/nome-do-projeto
 ```
 
+## 🔒 Contas de Acesso para Teste
+
+| Email                | Senha     | Nível de Acesso |
+|---------------------|-----------|-----------------|
+| nicolas@abc.com     | 123456    | Admin           |
+| bia@abc.com         | puro      | User            |
+| joao@abc.com        | 12456     | Admin           |
+| juliano@abc.com     | 89745     | User            |
+| margarida@abc.com   | 1245Aef   | User            |
+
+
 ## 📷 Pré-visualização
 
 ### Tela de Login (Desktop)
