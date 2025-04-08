@@ -1,0 +1,124 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../resources/BackgroundHome.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    width: 80%;
+    height: 80%;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s;
+}
+
+a:hover {
+    transform: scale(1.05);
+}
+
+ul {
+    list-style: none;
+    padding: 20px;
+    margin: 0;
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+}
+
+li {
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    width: 70px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgba(240, 248, 255, 0.363);
+    text-align: center;
+}
+
+.acesso {
+    width: auto;
+}
+
+h1, h2, p {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+}
+
+.welcome {
+    color: black;
+}
+
+.welcome h1 {
+    font-size: 80px;
+    text-shadow: 0px 13px 14px rgba(66, 68, 90, 1);
+}
+
+.welcome h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+.textLorem {
+    width: 600px;
+}
+
+@media (max-width: 768px) {
+    .welcome h1 {
+        font-size: 50px;
+    }
+
+    .welcome h2 {
+        font-size: 30px;
+    }
+
+    .textLorem {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 480px) {
+    li {
+        font-size: 12px;
+    }
+
+    .welcome h1 {
+        font-size: 40px;
+    }
+
+    .welcome h2 {
+        font-size: 24px;
+    }
+
+    .textLorem {
+        max-width: 250px;
+        font-size: 12px;
+    }
+}
